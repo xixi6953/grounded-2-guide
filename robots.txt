@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xixi6953.github.io/grounded-2-guide/sitemap.xml
